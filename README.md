@@ -1,6 +1,10 @@
 
 # WizardMorat
 
+
+<img src="./screenshots/mainPage.jfif" alt="Example Image" width="100" height="200">
+
+
 ## Overview
 The **WizardMorat** is a Kotlin-based application designed to compute and track scores for the popular card game, Wizard. This app simplifies scorekeeping, ensuring an enjoyable and seamless gaming experience.
 
@@ -14,20 +18,7 @@ One evening, during a particularly intense game of Wizard with friends, we reali
 - **Customizable Settings**: Allows for game rule adjustments and player customization.
 
 ## Screenshots
-Here are some screenshots of the Wizard Score Calculator in action:
-
-- **Main Screen**:
-  !Main Screen
-
-- **Add Players**:
-  !Add Players
-
-- **Enter Scores**:
-  !Enter Scores
-
-- **View Results**:
-  !View Results
-
+View some screenshots from the game it self: [ScrennShots](https://github.com/fasfous92/WizardMorat2/blob/main/screenshotsView.md)
 ## Installation
 To get started with the Wizard Score Calculator, follow these steps:
 
